@@ -1,0 +1,12 @@
+John Doe
+Software Engineer Intern
+
+Experience:
+- Google SWE Intern (Summer 2023)
+- Meta Front-End Intern (Summer 2022)
+
+Education:
+- BS Computer Science, Stanford University (Expected 2024)
+
+Skills:
+- React, TypeScript, Node.js, Python, Supabase, PostgreSQL
