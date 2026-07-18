@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3fcb68ce-bbe1-48a2-b4c2-a5198d9aaf8e" /># 🚀 AI Career Path Prediction
+ 🚀 AI Career Path Prediction
 
 > An AI-powered career recommendation platform that predicts the most suitable Artificial Intelligence career path based on a user's skills, education, interests, certifications, and experience. The platform also provides personalized learning roadmaps, skill gap analysis, and career guidance to help users achieve their professional goals.
 
