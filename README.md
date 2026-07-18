@@ -224,7 +224,7 @@ AI-Career-Path-Prediction/
 ## Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-Career-Path-Prediction.git
+git clone https://github.com/Siddhesh106/AI-Career-Path-Prediction.git
 ```
 
 ```bash
