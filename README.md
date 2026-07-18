@@ -1,5 +1,5 @@
  🚀 AI Career Path Prediction
-
+![image alt](https://github.com/Siddhesh106/AI_Career_Path_Prediction/blob/878a930c028a0f3822f4530f1b7f34f6f401d726/image%201.jpeg)
 > An AI-powered career recommendation platform that predicts the most suitable Artificial Intelligence career path based on a user's skills, education, interests, certifications, and experience. The platform also provides personalized learning roadmaps, skill gap analysis, and career guidance to help users achieve their professional goals.
 
 ---
