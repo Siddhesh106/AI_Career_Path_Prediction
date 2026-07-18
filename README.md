@@ -1,5 +1,7 @@
  🚀 AI Career Path Prediction
+ 
 ![image alt](https://github.com/Siddhesh106/AI_Career_Path_Prediction/blob/878a930c028a0f3822f4530f1b7f34f6f401d726/image%201.jpeg)
+
 > An AI-powered career recommendation platform that predicts the most suitable Artificial Intelligence career path based on a user's skills, education, interests, certifications, and experience. The platform also provides personalized learning roadmaps, skill gap analysis, and career guidance to help users achieve their professional goals.
 
 ---
@@ -338,9 +340,12 @@ Model performance is evaluated using:
 
 
  📸 Screenshots
-
-
-
+![image alt](https://github.com/Siddhesh106/AI_Career_Path_Prediction/blob/f97937f6550eab96c0e05a40de1c2054e44d4208/image%202.jpeg)
+![image alt](https://github.com/Siddhesh106/AI_Career_Path_Prediction/blob/f97937f6550eab96c0e05a40de1c2054e44d4208/image%203.jpeg)
+![image alt](https://github.com/Siddhesh106/AI_Career_Path_Prediction/blob/f97937f6550eab96c0e05a40de1c2054e44d4208/image%204.jpeg)
+![image alt](https://github.com/Siddhesh106/AI_Career_Path_Prediction/blob/f97937f6550eab96c0e05a40de1c2054e44d4208/image%205.jpeg)
+![image alt](https://github.com/Siddhesh106/AI_Career_Path_Prediction/blob/f97937f6550eab96c0e05a40de1c2054e44d4208/image%206.jpeg)
+![image alt](https://github.com/Siddhesh106/AI_Career_Path_Prediction/blob/f97937f6550eab96c0e05a40de1c2054e44d4208/image%207.jpeg)
 
 ## screenshots/
 
@@ -459,8 +464,8 @@ This project is licensed under the MIT License.
 
 AI & Machine Learning Enthusiast
 
-- LinkedIn: *(Add your profile)*
-- GitHub: *(Add your GitHub profile)*
+- LinkedIn: linkedin.com/in/siddhesh-mhatre-7160a332b
+- instagram: https://www.instagram.com/_sidhu_51_?igsh=dHlqb3NhMDN3ZTk5
 
 ---
 
